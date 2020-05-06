@@ -1,0 +1,1651 @@
+[
+		{
+			"question": "Phát triển là một khuynh hướng của vận động đối với các sự vật hiện tượng bao gồm :",
+			"answer": "Đi từ thấp đến cao, từ đơn giản đến phức tạp, kém hoàn thiện đến hoàn thiện hơn, bao hàm cả sự thụt lùi đi xuống làm tiền đề cho sự phát triển",
+			"id": 1
+		},
+		{
+			"question": "Quá trình nhận thức của con người trải qua bao nhiêu giai đoạn",
+			"answer": "2",
+			"id": 2
+		},
+		{
+			"question": "Quy trình nhận thức của con người trải qua các giai đoạn nào sau đây",
+			"answer": "Từ trực quan sinh động đến tư duy trừu tượng",
+			"id": 3
+		},
+		{
+			"question": "Phép biện chứng duy vật có những nguyên lý cơ bản là:",
+			"answer": "Nguyên lý về mối liên hệ phổ biến và nguyên lý về sự phát triển",
+			"id": 4
+		},
+		{
+			"question": "Theo chủ nghĩa Mác – Lênin, bản chất của ý thức được hình thành như thế nào",
+			"answer": "Phản ánh thế giới khách quan vào bộ óc người",
+			"id": 5
+		},
+		{
+			"question": "Ý nghĩa phương pháp luận của nguyên lý về mối liên hệ phổ biến là",
+			"answer": "Có quan điểm toàn diện trong nhìn nhận và đánh giá về sự vật và hiện tượng",
+			"id": 6
+		},
+		{
+			"question": "Ý nghĩa phương pháp luận của nguyên lý về sự phát triển là",
+			"answer": "Khi xem xét sự vận hiện tượng chúng ta phải đặt nó trong trạng thái vận động, phát triển, áp dụng quan điểm toàn diện và quan điểm lịch sử cụ thể",
+			"id": 7
+		},
+		{
+			"question": "Theo lý luận của chủ nghĩa Mác – Lênin, ý thức được hình thành từ các nguồn gốc",
+			"answer": "Vật chất có trước, ý thức có sau, vật chất quyết định ý thức, thức có sự tác động trở lại đối với vật chất",
+			"id": 8
+		},
+		{
+			"question": "Đâu là nguyên lý của Phép biện chứng duy vật\"",
+			"answer": "Nguyên lý về sự phát triển",
+			"id": 9
+		},
+		{
+			"question": "Chủ nghĩa Mác - Lênin chỉ rõ động lực của sự phát triển xã hội chính là do nguyên nhân nào",
+			"answer": "Sự phát triển của sản xuất vật chất",
+			"id": 10
+		},
+		{
+			"question": "Định nghĩa “Vật chất là một phạm trù của triết học dùng để chỉ thực tại khách quan, được đem lại cho con người trong cảm giác, được cảm giác chép lại, chụp lại, phản ánh không lệ thuộc vào cảm giác” của nhà tư tưởng nào",
+			"answer": "V.I.Lênin",
+			"id": 11
+		},
+		{
+			"question": "Ăngghen đã chia vận động của vật chất thành bao nhiêu hình thức cơ bản",
+			"answer": "5",
+			"id": 12
+		},
+		{
+			"question": "Theo lý luận của chủ nghĩa Mác – Lênin, ý thức được hình thành từ các nguồn gốc",
+			"answer": "Tự nhiên, xã hội",
+			"id": 13
+		},
+		{
+			"question": "Hoạt động thực tiễn là hoạt động vật chất của con người tác động vào thế giới khách quan bao gồm những thình thức nào",
+			"answer": "Hoạt động sản xuất vật chất, hoạt động chính trị - xã hội, hoạt động thực nghiệm khoa học",
+			"id": 14
+		},
+		{
+			"question": "Vai trò của thực tiễn đối với hoạt động nhận thức của con người là",
+			"answer": "Là cơ sở, nguồn gốc của nhận thức, động lực, mục đích của nhận thức, tiêu chuẩn của chân lý",
+			"id": 15
+		},
+		{
+			"question": "Phát triển là một khuynh hướng của vận động đối với các sự vật hiện tượng bao gồm :",
+			"answer": "Đi từ thấp đến cao, từ đơn giản đến phức tạp, kém hoàn thiện đến hoàn thiện hơn, bao hàm cả sự thụt lùi đi xuống làm tiền đề cho sự phát triển",
+			"id": 16
+		},
+		{
+			"question": "Quá trình nhận thức của con người trải qua bao nhiêu giai đoạn",
+			"answer": "2",
+			"id": 17
+		},
+		{
+			"question": "Quy trình nhận thức của con người trải qua các giai đoạn nào sau đây",
+			"answer": "Từ trực quan sinh động đến tư duy trừu tượng",
+			"id": 18
+		},
+		{
+			"question": "Phép biện chứng duy vật có những nguyên lý cơ bản là:",
+			"answer": "Nguyên lý về mối liên hệ phổ biến và nguyên lý về sự phát triển",
+			"id": 19
+		},
+		{
+			"question": "Theo chủ nghĩa Mác – Lênin, bản chất của ý thức được hình thành như thế nào",
+			"answer": "Phản ánh thế giới khách quan vào bộ óc người",
+			"id": 20
+		},
+		{
+			"question": "Ý nghĩa phương pháp luận của nguyên lý về mối liên hệ phổ biến là",
+			"answer": "Có quan điểm toàn diện trong nhìn nhận và đánh giá về sự vật và hiện tượng",
+			"id": 21
+		},
+		{
+			"question": "Ý nghĩa phương pháp luận của nguyên lý về sự phát triển là",
+			"answer": "Khi xem xét sự vận hiện tượng chúng ta phải đặt nó trong trạng thái vận động, phát triển, áp dụng quan điểm toàn diện và quan điểm lịch sử cụ thể",
+			"id": 22
+		},
+		{
+			"question": "Hoạt động thực tiễn là hoạt động vật chất của con người tác động vào thế giới khách quan bao gồm những thình thức nào",
+			"answer": "Hoạt động sản xuất vật chất, hoạt động chính trị - xã hội, hoạt động thực nghiệm khoa học",
+			"id": 23
+		},
+		{
+			"question": "Vai trò của thực tiễn đối với hoạt động nhận thức của con người là",
+			"answer": "Là cơ sở, nguồn gốc của nhận thức, động lực, mục đích của nhận thức, tiêu chuẩn của chân lý",
+			"id": 24
+		},
+		{
+			"question": "Chủ nghĩa Mác - Lênin chỉ rõ động lực của sự phát triển xã hội chính là do nguyên nhân nào",
+			"answer": "Sự phát triển của sản xuất vật chất",
+			"id": 25
+		},
+		{
+			"question": "Định nghĩa “Vật chất là một phạm trù của triết học dùng để chỉ thực tại khách quan, được đem lại cho con người trong cảm giác, được cảm giác chép lại, chụp lại, phản ánh không lệ thuộc vào cảm giác” của nhà tư tưởng nào",
+			"answer": "V.I.Lênin",
+			"id": 26
+		},
+		{
+			"question": "Ăngghen đã chia vận động của vật chất thành bao nhiêu hình thức cơ bản",
+			"answer": "5",
+			"id": 27
+		},
+		{
+			"question": "Theo lý luận của chủ nghĩa Mác – Lênin, ý thức được hình thành từ các nguồn gốc",
+			"answer": "Tự nhiên, xã hội",
+			"id": 28
+		},
+		{
+			"question": "Theo lý luận của chủ nghĩa Mác – Lênin, ý thức được hình thành từ các nguồn gốc",
+			"answer": "Vật chất có trước, ý thức có sau, vật chất quyết định ý thức, thức có sự tác động trở lại đối với vật chất",
+			"id": 29
+		},
+		{
+			"question": "Đâu là nguyên lý của Phép biện chứng duy vật",
+			"answer": "Nguyên lý về sự phát triển",
+			"id": 30
+		},
+		{
+			"question": "Trong những quy luật của phép biện chứng duy vật, quy luật nào vạch ra cách thức của sự phát triển",
+			"answer": "Quy luật lượng chất",
+			"id": 31
+		},
+		{
+			"question": "Trong những quy luật cơ bản của phép biện chứng duy vật, quy luật nào vạch ra khuynh hướng của sự phát triển",
+			"answer": "Quy luật phủ định",
+			"id": 32
+		},
+		{
+			"question": "Phương thức sản của một hình thái kinh tế xã hội là gì",
+			"answer": "Cách thức tiến hành tổ chức sản xuất vật chất",
+			"id": 33
+		},
+		{
+			"question": "Sự vận động và phát triển của xã hội bao gồm bao nhiêu quy luật cơ bản",
+			"answer": "2",
+			"id": 34
+		},
+		{
+			"question": "Sự vận động và phát triển của xã hội bao gồm quy luật cơ bản là:",
+			"answer": "Quan hệ sản xuất và lực lượng sản xuất; Cơ sở hạ tầng và kiến trúc thượng tầng",
+			"id": 35
+		},
+		{
+			"question": "Lực lượng sản xuất là",
+			"answer": "Mối quan hệ giữa con người với tự nhiên, thể hiện trình độ chinh phục tự nhiên của con người",
+			"id": 36
+		},
+		{
+			"question": "Thực chất của đấu tranh giai cấp trong lịch sử xã hội loài người là",
+			"answer": "Đấu tranh vì lợi ích kinh tế không thể điều hòa được",
+			"id": 37
+		},
+		{
+			"question": "Đảng ta chủ trương phát triển lực lượng sản xuất bằng cách",
+			"answer": "Thực hiện công cuộc công nghiệp hóa, hiện đại hóa gắn với kinh tế tri thức",
+			"id": 38
+		},
+		{
+			"question": "Trong lực lượng sản xuất, yếu tố nào cách mạng nhất",
+			"answer": "Công cụ lao động",
+			"id": 39
+		},
+		{
+			"question": "Động lực chủ yếu của tiến bộ xã hội là",
+			"answer": "Sự phát triển của lực lượng sản xuất",
+			"id": 40
+		},
+		{
+			"question": "Lực lượng sản xuất bao gồm",
+			"answer": "Tư liệu sản xuất và người lao động",
+			"id": 41
+		},
+		{
+			"question": "Quan hệ sản xuất là",
+			"answer": "Mối quan hệ giữa con người với con người trong quá trình tổ chức sản xuất",
+			"id": 42
+		},
+		{
+			"question": "Mối quan hệ biện chứng giữa lực lượng sản xuất và quan hệ sản xuất trong quy luật phát triển xã hội được thể hiện như thế nào",
+			"answer": "Lực lượng sản xuất quyết định quan hệ sản xuất, quan hệ sản xuất có sự tác động trở lại đối với lực lượng sản xuất",
+			"id": 43
+		},
+		{
+			"question": "Mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng được thể hiện như thế nào",
+			"answer": "Cơ sở hạ tầng quyết định kiến trúc thượng tầng, kiến trúc thượng tầng ra đời có sự tác động trở lại đối với cơ sở hạ tầng",
+			"id": 44
+		},
+		{
+			"id": 45
+		},
+		{
+			"question": "Lênin đã tổng kết chủ nghĩa đế quốc có bao nhiêu đặc trưng cơ bản",
+			"answer": "5",
+			"id": 46
+		},
+		{
+			"question": "Hàng hóa có bao nhiêu thuộc tính",
+			"answer": "2",
+			"id": 47
+		},
+		{
+			"question": "Hàng hóa có thuộc tính cơ bản là",
+			"answer": "Giá trị và giá trị sử dụng",
+			"id": 48
+		},
+		{
+			"question": "Tiền tệ có bao nhiêu chức năng cơ bản",
+			"answer": "5",
+			"id": 49
+		},
+		{
+			"question": "Điều kiện để sức lao động trở thành hàng hóa sức lao động",
+			"answer": "Con người được tự do về than thể và không có tư liệu sản xuất",
+			"id": 50
+		},
+		{
+			"question": "Vai trò của sản xuất hàng hóa đối với xã hội là",
+			"answer": "Duy trì và phát triển xã hội",
+			"id": 51
+		},
+		{
+			"question": "Trong kinh tế, phương thức sản xuất hàng hóa phát triển mạnh nhất trong hình thái kinh tế - xã hội nào",
+			"answer": "Tư bản chủ nghĩa",
+			"id": 52
+		},
+		{
+			"question": "Giai đoạn nào nền đại công nghiệp tư bản chủ nghĩa được hình thành và phát triển mạnh tại nhiều nước ở châu Âu",
+			"answer": "Từ nửa sau thế kỷ XIX đến giữa thế kỷ XX",
+			"id": 53
+		},
+		{
+			"question": "Trong kinh tế chính trị Mác, học thuyết nào sau đây được gọi là hòn đá tảng",
+			"answer": "Học thuyết giá trị thặng dư",
+			"id": 54
+		},
+		{
+			"question": "Quá trình sản xuất là sự kết hợp giữa các yếu tố",
+			"answer": "Sức lao động, tư liệu lao động và đối tượng lao động",
+			"id": 55
+		},
+		{
+			"question": "Trong tư liệu lao động, bộ phận nào quyết định đến năng suất lao động",
+			"answer": "Công cụ lao động",
+			"id": 56
+		},
+		{
+			"question": "Trong nền sản xuất lớn hiện đại, yếu tố nào giữ vai trò quyết định trong quá trình sản xuất",
+			"answer": "Sức lao động",
+			"id": 57
+		},
+		{
+			"question": "Trong các khâu của quá trình sản xuất, khâu nào giữ vai trò quyết định",
+			"answer": "Sản xuất",
+			"id": 58
+		},
+		{
+			"question": "Trong các khâu của quá trình sản xuất, khâu nào là mục đích và động lực của quá trình sản xuất",
+			"answer": "Tiêu dùng",
+			"id": 59
+		},
+		{
+			"question": "Cuộc cách mạng công nghiệp đầu tiên bắt nguồn từ đâu",
+			"answer": "Anh",
+			"id": 60
+		},
+		{
+			"question": "Thời kỳ quá độ ở nước ta được diễn ra trong cả nước bắt đầu từ khi nào",
+			"answer": "1975",
+			"id": 61
+		},
+		{
+			"question": "Theo Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội, xã hội xã hội chủ nghĩa ở nước ta có bao nhiêu đặc trưng cơ bản",
+			"answer": "6",
+			"id": 62
+		},
+		{
+			"question": "Ai là người đề ra khả năng quá độ lên chủ nghĩa xã hội",
+			"answer": "V.I. Lênin",
+			"id": 63
+		},
+		{
+			"question": "C.Mác và Ph. Angghen đã chia chủ nghĩa cộng sản thành bao nhiêu giai đoạn phát triển",
+			"answer": "2",
+			"id": 64
+		},
+		{
+			"question": "Lênin đã áp dụng thành công lý luận chủ nghĩa Mác – Lênin vào hiện thực về chủ nghĩa xã hội ở nước nào",
+			"answer": "Nga",
+			"id": 65
+		},
+		{
+			"question": "Thời kỳ quá độ lên chủ nghĩa xã hội là",
+			"answer": "Là thời kỳ cải biến cách mạng sâu sắc trên tất cả các lĩnh vực của đời sống xã hội từ xã hội cũ sang xã hội mới",
+			"id": 66
+		},
+		{
+			"question": "Thời kỳ quá độ lên chủ nghĩa xã hội được tính từ khi",
+			"answer": "Cách mạng tháng Mười Nga 1917",
+			"id": 67
+		},
+		{
+			"question": "Giai đoạn nào chủ nghĩa xã hội hiện thực trên thế giới lâm vào trì trệ khủng hoảng",
+			"answer": "Từ cuối thập kỷ 70 đến đầu thập niên 80 của thế kỷ XX",
+			"id": 68
+		},
+		{
+			"question": "Đặc điểm lớn nhất của thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta là1",
+			"answer": "Từ một nền sản xuất nhỏ là phổ biến quá độ lên CNXH không qua chế độ TBCN",
+			"id": 69
+		},
+		{
+			"question": "Khi nói: “Quá độ lên chủ nghĩa xã hội bỏ qua tư bản chủ nghĩa” là bỏ qua yếu tố nào1",
+			"answer": "Bỏ qua việc xác lập của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa",
+			"id": 70
+		},
+		{
+			"question": "Thời kỳ quá độ lên chủ nghĩa xã hội diễn ra cuộc đấu tranh gay gắt giữa1",
+			"answer": "Một bên là giai cấp công nhân và nhân dân lao động vừa giành được chính quyền nhà nước với một bên là giai cấp bóc lột và các thế lực phản động mới bị đánh đổ",
+			"id": 71
+		},
+		{
+			"question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội còn được gọi là1",
+			"answer": "Cương lĩnh 1991",
+			"id": 72
+		},
+		{
+			"question": "Dựa trên sáng kiến vĩ đại nào để C.Mác và Ph. Engel luận giải một cách khoa học về sứ mệnh lịch sử của giai cấp công nhân1",
+			"answer": "Chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư",
+			"id": 73
+		},
+		{
+			"question": "Thời kỳ quá độ lên chủ nghĩa xã hội có thể diễn ra theo con đường nào1",
+			"answer": "Quá độ trực tiếp hoặc gián tiếp qua nhiều bước trung gian",
+			"id": 74
+		},
+		{
+			"question": "Hãy điền cụm từ còn thiếu trong đoạn văn sau: “Lịch sử xã hội loài người phát triển tuần tự qua các hình thái kinh tế - xã hội, từ cộng sản nguyên thủy lên cộng sản chủ nghĩa là một quá trình …”",
+			"answer": "Tất yếu sẽ diễn ra",
+			"id": 75
+		},
+		{
+			"question": "Văn hóa Đông Sơn là nền văn hóa đại diện cho Nhà nước nào sau đây",
+			"answer": "Nhà nước Văn Lang – Âu Lạc",
+			"id": 76
+		},
+		{
+			"question": "Nguồn gốc đầu tiên dẫn tới sự ra đời nhà nước Đại Việt cổ",
+			"answer": "Chống giặc ngoại xâm và thiên tai",
+			"id": 77
+		},
+		{
+			"question": "Việc đắp đê trị thủy trong lịch sử dựng nước của nhân dân Việt Nam đã góp phần trực tiếp hình thành nên truyền thống tốt đẹp cơ bản nào sau đây",
+			"answer": "Truyền thống đoàn kết",
+			"id": 78
+		},
+		{
+			"question": "Yếu tố nào tạo nên cốt lõi văn hóa, là cội nguồn của chủ nghĩa yêu nước Việt Nam",
+			"answer": "Sự gắn bó làng, xóm; nước và nhà hoà quyện với nhau",
+			"id": 79
+		},
+		{
+			"question": "Văn hóa Việt Nam là nền văn hóa biểu hiện",
+			"answer": "Sự tổng hoà của các tiểu vùng văn hóa khác nhau, tạo nên sự thống nhất trong đa dạng",
+			"id": 80
+		},
+		{
+			"question": "Quê hương của cố Tổng Bí thư Trần Phú",
+			"answer": "Hà Tĩnh",
+			"id": 81
+		},
+		{
+			"question": "Cây đa Tân Trào ở đâu",
+			"answer": "Tuyên Quang",
+			"id": 82
+		},
+		{
+			"question": "Thành Nhà Hồ ở đâu",
+			"answer": "Thanh Hóa",
+			"id": 83
+		},
+		{
+			"question": "Sông Bạch Đằng hiện nay ở tỉnh nào",
+			"answer": "Quảng Ninh, Hải Phòng",
+			"id": 84
+		},
+		{
+			"question": "Vùng biển của Việt Nam chiếm diện tích khoảng 1,000,000 km2, bờ biển trải dài 3260 km, nằm dọc biển Đông của Thái Bình Dương. Các vùng núi và biển này chứa nhiều nguồn tài nguyên và khoáng sản đa dạng phong phú, chính từ tiềm năng này đã kéo theo",
+			"answer": "Tham vọng của nhiều nước phát triển trên thế giới",
+			"id": 85
+		},
+		{
+			"question": "Hãy lựa chọn phương án đúng nhất trong các phương án sau",
+			"answer": "Nhà nước Văn Lang – Âu Lạc với nền văn hóa Đông Sơn; Nhà nước Chăm Pa Cổ với nền văn hóa Sa Huỳnh; Vương Quốc Phù Nam với nền văn hóa Ốc Eo",
+			"id": 86
+		},
+		{
+			"question": "Dân tộc ta đã phải trải qua hơn 12 thế kỷ chống chiến tranh xâm lược bảo vệ tổ quốc, trong số các thế lực ngoại bang, chống thế lực nào lâu dài nhất",
+			"answer": "Quân Nam Hán",
+			"id": 87
+		},
+		{
+			"question": "Một trong những nhiệm vụ mà Đảng ta xác định đối với vấn đề dân tộc đó là",
+			"answer": "Xây dựng thế trận quốc phòng toàn dân và thế trận an ninh nhân dân",
+			"id": 88
+		},
+		{
+			"question": "Chế độ phong kiến trung ương tập quyền đạt đến độ hoàn thiện trong lịch sử Việt Nam thuộc triều đại nào",
+			"answer": "Nhà Lê",
+			"id": 89
+		},
+		{
+			"question": "Truyền thuyết “Con Rồng Cháu Tiên” khẳng định điều gì",
+			"answer": "Tất cả các đáp án đều đúng",
+			"id": 90
+		},
+		{
+			"question": "“Khi mâu thuẫn với Pháp và phong kiến có ý thức dân tộc và dân chủ; nhưng do lo sợ bị cách mạng đánh đổ họ thường dao động ngả nghiêng, dễ cải lương, thoả hiệp”. Đây là quan điểm nhằm chỉ giai cấp, tầng lớp nào",
+			"answer": "Tư sản Việt Nam",
+			"id": 91
+		},
+		{
+			"question": "“Ra đời trong quá trình khai thác thuộc địa lần I của Pháp; sau chiến tranh thế giới thứ nhất phát triển rất nhanh. Tuy ít về số lượng, ra đời muộn so với giai cấp công nhân châu Âu, đời sống gắn với sản xuất công nghiệp, họ là đại biểu của phương thức sản xuất tiên tiến nhất”.Đây là quan điểm nhằm chỉ giai cấp, tầng lớp nào",
+			"answer": "Tư sản Việt Nam",
+			"id": 92
+		},
+		{
+			"question": "“Đảng Cộng sản Việt Nam, đội tiên phong của giai cấp công nhân Việt Nam, đại biểu trung thành quyền lợi của giai cấp công nhân, nhân dân lao động và của cả dân tộc, theo chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh, là lực lượng lãnh đạo Nhà nước và xã hội. Mọi tổ chức của Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật”. Đoạn trích trên được trích tại điều bao nhiêu của Hiến pháp Việt Nam",
+			"answer": "Điều 4",
+			"id": 93
+		},
+		{
+			"question": "“Tiền đồ cách mạng Việt Nam đen tối như không có đường ra” là câu nói của ai",
+			"answer": "Phan Bội Châu",
+			"id": 94
+		},
+		{
+			"question": "“Trong Đảng thực hành dân chủ rộng rãi, thường xuyên và nghiêm chỉnh tự phê bình và phê bình là cách tốt nhất để củng cố và phát triển sự đoàn kết và thống nhất của Đảng. Phải có tình đồng chí thương yêu lẫn nhau”. Đó là đoạn trích thuộc",
+			"answer": "Trích Di chúc Hồ Chí Minh",
+			"id": 95
+		},
+		{
+			"question": "Phương án nào sau đây mô tả xã hội Việt Nam trước khi có Đảng Cộng sản Việt Nam ra đời",
+			"answer": "Từ một quốc gia phong kiến độc lập trở thành một nước thuộc địa nửa phong kiến; dân ta từ chỗ tự do, trở thành nô lệ",
+			"id": 96
+		},
+		{
+			"question": "Đảng ta đã lãnh đạo đất nước giành được nhiều thắng lợi, rút ra nhiều bài học kinh nghiệm. Trong các phương án sau, đâu là bài học kinh nghiệm của Đảng ta",
+			"answer": "Cách mạng là sự nghiệp của dân, do dân và vì dân",
+			"id": 97
+		},
+		{
+			"question": "Phương án nào sau đây KHÔNG đúng về chế độ phong kiến Việt Nam cuối thế kỷ XVIII đến giữa thế kỷ XIX",
+			"answer": "Từng bước thiết lập nên những chính sách mới nhằm phối hợp, đoàn kết nhân dân chống lại thực dân Pháp",
+			"id": 98
+		},
+		{
+			"question": "Giai cấp nông dân tuy là lực lượng đa số trong xã hội, chịu một cổ 2 tròng. Nhưng mặt khác, ......",
+			"answer": "họ vừa là người dân mất nước, vừa là người bị áp bức, bóc lột nặng nề nên họ rất kiên quyết cách mạng",
+			"id": 99
+		},
+		{
+			"question": "Trước năm 1930, ba tổ chức Cộng sản tồn tại ở Việt Nam được thể hiện như thế nào",
+			"answer": "Chia rẽ, mâu thuẫn, tạo điểm yếu để thực dân đàn áp",
+			"id": 100
+		},
+		{
+			"question": "Tinh thần “Khai dân trí, chấn dân trí, hậu dân sinh” là tinh thần của phong trào cách mạng nào trong lịch sử Việt Nam",
+			"answer": "Phong trào Duy Tân",
+			"id": 101
+		},
+		{
+			"question": "Hồ Chí Minh đọc bản “Sơ thảo lần thứ nhất Luận cương của Lênin về vấn đề dân tộc và thuộc địa” vào thời gian nào",
+			"answer": "Tháng 7 năm 1920",
+			"id": 102
+		},
+		{
+			"question": "Cách mạng tháng 8 năm 1945 là kết quả của bao nhiêu năm đấu tranh anh dũng của nhân dân ta dưới sự lãnh đạo của Đảng",
+			"answer": "Của 15 năm lãnh đạo",
+			"id": 103
+		},
+		{
+			"question": "Tiểu thương, tiểu chủ, công chức, trí thức, học sinh, sinh viên là lực lượng thuộc",
+			"answer": "Tầng lớp tiểu tư sản Việt Nam",
+			"id": 104
+		},
+		{
+			"question": "Đâu là một trong những tên gọi của Đảng ta",
+			"answer": "Đảng Lao động Việt Nam",
+			"id": 105
+		},
+		{
+			"question": "Năm 1920 Hồ Chí Minh đã tìm thấy con đường cứu nước khi",
+			"answer": "Đọc được bản Luận cương của Lênin",
+			"id": 106
+		},
+		{
+			"question": "Hồ Chí Minh thành lập tổ chức “Việt Nam thanh niên cách mạng đồng chí hội” vào thời gian nào",
+			"answer": "06/1925",
+			"id": 107
+		},
+		{
+			"question": "Cuốn “Đường kách mệnh” của Hồ Chí Minh xuất bản năm nào",
+			"answer": "1927",
+			"id": 108
+		},
+		{
+			"question": "Giai cấp tư sản Việt Nam có số ít là tư sản mại bản có quyền lợi kinh tế chính trị gắn liền với đế quốc thực dân; phần lớn còn lại là ......",
+			"answer": "Tư sản dân tộc",
+			"id": 109
+		},
+		{
+			"question": "Đại hội đại biểu toàn quốc lần thứ mấy của Đảng chính thức ghi vào Cương lĩnh và Điều lệ Đảng: \"Đảng lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động...\"",
+			"answer": "Đại hội Đại biểu lần thứ VII",
+			"id": 110
+		},
+		{
+			"question": "Trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh, giai đoạn từ năm 1911-1920 là giai đoạn thể hiện nội dung nào sau đây",
+			"answer": "Xác định con đường cứu nước, giải phóng dân tộc",
+			"id": 111
+		},
+		{
+			"question": "Chọn phương án hợp lý nhất để điền vào chỗ trống: “ Tư tưởng Hồ Chí Minh là một hệ thống quan điểm và tư tưởng của Hồ Chí Minh trong sự nghiệp cách mạng của ông được Đảng Cộng sản Việt Nam tổng kết, hệ thống hóa. ... Đảng Cộng sản Việt Nam xác định lấy Chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh là kim chỉ nam cho mọi hành động và thắng lợi của cách mạng Việt Nam.”.",
+			"answer": "Toàn diện và sâu sắc; sáng tạo; cụ thể",
+			"id": 112
+		},
+		{
+			"question": "“Quét sạch chủ nghĩa cá nhân, nâng cao đạo đức cách mạng” là tư tưởng thuộc nội dung nào sau đây",
+			"answer": "Thực hiện cần, kiệm, liêm, chính, chí công vô tư",
+			"id": 113
+		},
+		{
+			"question": "Tư tưởng về tình yêu thương con người ở tư tưởng Hồ Chí Minh được thể hiện ở khía cạnh nào sau đây",
+			"answer": "Tất cả các đáp án",
+			"id": 114
+		},
+		{
+			"question": "Theo tư tưởng Hồ Chí Minh, \"Muôn việc thành công hoặc thất bại, đều do …. tốt hoặc kém”. Hãy điền từ còn thiếu vào chỗ trống theo các phương án sau:",
+			"answer": "cán bộ",
+			"id": 115
+		},
+		{
+			"question": "Hồ Chí Minh là lãnh tụ của tổ chức nào",
+			"answer": "Hội Việt Nam cách mạng thanh niên",
+			"id": 116
+		},
+		{
+			"question": "Đâu là tác phẩm của Hồ Chí Minh",
+			"answer": "Đường Kách Mệnh",
+			"id": 117
+		},
+		{
+			"question": "Quan điểm nào sau đây KHÔNG phải là của Hồ Chí Minh",
+			"answer": "Đảng phải thẳng thắn phê bình, tự giác nhận lỗi, không để cho dân đói, dân rét, dân nghèo và đặc biệt khi có lỗi với dân thì tự giác viết đơn nghỉ việc và nhận trách nhiệm",
+			"id": 118
+		},
+		{
+			"question": "Ban Chấp hành Trung ương khoá IX đã quyết định triển khai chỉ đạo điểm cuộc vận động nào",
+			"answer": "\"Học tập và làm theo tấm gương đạo đức Hồ Chí Minh\"",
+			"id": 119
+		},
+		{
+			"question": "Chủ tịch Hồ Chí Minh sinh ngày 19/5/1890 trong một gia đình có truyền thống.... Ở làng....xã….huyện Nam Đàn, tỉnh Nghệ An. Hãy lựa chọn phương án phù hợp sau để hoàn thành đúng thứ tự các thông tin\"",
+			"answer": "Nho học yêu nước, Sen, Kim Liêncorrec",
+			"id": 120
+		},
+		{
+			"question": "Phải kiên quyết chống các loại bệnh “nội xâm” và đưa ra khỏi Đảng những phần tử thoái hóa biến chất. Từ đó.....",
+			"answer": "để mỗi cán bộ đảng viên của đảng vừa hồng lại vừa chuyên.",
+			"id": 121
+		},
+		{
+			"question": "Vấn đề “Tam nông” là vấn đề gì",
+			"answer": "Nông nghiệp, nông thôn, nông dân",
+			"id": 122
+		},
+		{
+			"question": "Nước ta có bao nhiêu vùng kinh tế trọng điểm",
+			"answer": "4",
+			"id": 123
+		},
+		{
+			"question": "Xác định được tầm quan trọng của kinh tế biển, tại Hội nghị lần thứ 4, BCH Trung ương Đảng ........ đã triển khai xây dựng Chiến lược biển Việt Nam đến năm 2020, trong đó nhấn mạnh: “Phấn đấu đến năm 2020, kinh tế biển và ven biển đóng góp khoảng 53%-55% tổng GDP của cả nước”. Hãy lựa chọn phương án phù hợp để điền vào chỗ trống",
+			"answer": "Khóa X",
+			"id": 124
+		},
+		{
+			"question": "Những nguy cơ, thách thức như: Tụt hậu về kinh tế, chệch hướng về chủ nghĩa xã hội, nạn tham nhũng và quan liêu, “diễn biến hòa bình”… được Đảng ta nhận định trong Văn kiện",
+			"answer": "Văn kiện Đại hội IX",
+			"id": 125
+		},
+		{
+			"question": "Mô hình kinh tế trong thời kỳ quá độ ở nước ta là",
+			"answer": "Kinh tế thị trường định hướng XHCN",
+			"id": 126
+		},
+		{
+			"question": "Thành phần kinh tế nào giữ vai trò chủ đạo ở nước ta",
+			"answer": "Nhà nước",
+			"id": 127
+		},
+		{
+			"question": "Thành phần kinh tế nhà nước ở Việt Nam được hình thành trên loại hình sở hữu về tư liệu sản xuất nào",
+			"answer": "Sở hữu toàn dân",
+			"id": 128
+		},
+		{
+			"question": "Thành phần kinh tế nhà nước hiện nay ở nước ta bao gồm",
+			"answer": "Tất cả các phương án đều sai",
+			"id": 129
+		},
+		{
+			"question": "Thị trường tài chính của nước ta hiện nay có nhiều vấn đề phức tạp, đặc biệt là sự xuất hiện một số hiện tượng có tham vọng thâu tóm ngân hàng, hiện tượng này có ảnh hưởng gì đến ổn định cho đất nước",
+			"answer": "Tất cả các đáp án đều đúng",
+			"id": 130
+		},
+		{
+			"question": "Sinh ra và lớn lên trong một nước thuộc địa ½ phong kiến; kinh tế nông nghiệp lạc hậu, phần lớn đảng viên của Đảng xuất thân từ giai cấp nông dân, luôn bị kẻ thù đàn áp dã man. Do đó,....…",
+			"answer": "Để giữ vững sự lãnh đạo của Đảng, bí quyết thành công của Đảng chính là luôn giữ vững bản chất giai cấp công nhân; luôn là ngọn cờ tiền phong trong cuộc đấu tranh giành độc lập dân tộc và xây dựng chủ nghĩa xã hội",
+			"id": 131
+		},
+		{
+			"question": "Phương án nào phản ánh nhiệm vụ của Đảng ta trong thời kỳ đẩy mạnh CNH, HĐH đất nước",
+			"answer": "Tất cả các đáp án đều đúng",
+			"id": 132
+		},
+		{
+			"question": "Đặc điểm lớn nhất của nước ta trong thời kỳ quá độ là gì",
+			"answer": "Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không qua giai đoạn tư bản chủ nghĩa",
+			"id": 133
+		},
+		{
+			"question": "Điền vào chỗ trống sau: “...... định hướng xã hội chủ nghĩa ở Việt Nam là một kiểu tổ chức kinh tế vừa tuân theo những quy luật của kinh tế thị trường vừa dựa trên cơ sở và được dẫn dắt, chi phối bởi các nguyên tắc và bản chất của chủ nghĩa xã hội, thể hiện trên cả ba mặt: sở hữu, tổ chức quản lý, và phân phối”.",
+			"answer": "Kinh tế thị trường",
+			"id": 134
+		},
+		{
+			"question": "Sở hữu tư nhân về tư liệu sản xuất ở nước ta được biểu hiện dưới hình thức",
+			"answer": "Cá thể, tiểu chủ, tư bản tư nhân, hộ gia đình",
+			"id": 135
+		},
+		{
+			"question": "Theo Hồ Chí Minh, văn hóa có bao nhiêu chức năng cơ bản",
+			"answer": "4",
+			"id": 136
+		},
+		{
+			"question": "Như thế nào là một nền văn hóa đậm đà bản sắc dân tộc",
+			"answer": "Những giá trị bền vững, những tinh hoa của cộng đồng các dân tộc Việt Nam đó; Giữ gìn bản sắc dân tộc đi đôi với chống lạc hậu, lỗi thời hủ tục, tập quán cũ",
+			"id": 137
+		},
+		{
+			"question": "Đảng và nhà nước ta coi chính sách dân số là",
+			"answer": "Quốc sách",
+			"id": 138
+		},
+		{
+			"question": "Nghị quyết trung ương 5 khóa VIII chủ trương “về xây dựng vừ phát triển nền văn hóa Việt Nam tiến tiến đậm đà bản sắc dân tộc” được đề ra vào năm nào",
+			"answer": "1998",
+			"id": 139
+		},
+		{
+			"question": "Văn hóa là sự tổng hỏa của các giá trị về",
+			"answer": "Vật chất và tinh thần",
+			"id": 140
+		},
+		{
+			"question": "Chủ trương phát triển hệ thống y tế công bằng và hiệu quả là hướng đến",
+			"answer": "Đảm bảo mọi người dân được chăm sóc và bảo vệ sức khỏe",
+			"id": 141
+		},
+		{
+			"question": "Nền văn hóa Việt Nam được hình thành trên cở sở đặc trưng văn hóa tổng hợp các dân tộc Việt Nam nên có tính chất gì",
+			"answer": "Thống nhất trong đa dạng",
+			"id": 142
+		},
+		{
+			"question": "Thực hiện các chính sách xã hội vì con người Đảng chủ trương",
+			"answer": "Phát triển kinh tế gắn liền với công bằng xã hội",
+			"id": 143
+		},
+		{
+			"question": "Kết hợp mục tiêu kinh tế với mục tiêu xã hội được tiến hành",
+			"answer": "Trên phạm vi cả nước,ở từng lĩnh vực từng địa phương",
+			"id": 144
+		},
+		{
+			"question": "Điền từ còn thiếu trong câu nói của chủ tịch Hồ Chí Minh: “Vì lẽ sống sinh tồn cũng như mục đích của cuộc sống, loài người mới sáng tạo và phát minh ra ngôn ngữ, chữ viết, đạo đức, pháp luật, khoa học, tôn giáo, nghệ thuật. Những công cụ sinh hoạt hàng ngày về ăn, mặc, ở và các phương thức sử dụng. Toàn bộ những sáng tạo và phát minh đó là ……..”",
+			"answer": "Văn hóa",
+			"id": 145
+		},
+		{
+			"question": "Xây dựng chiến lược quốc gia về nâng cao sức khỏe, tầm vóc con người là",
+			"answer": "Tăng tuổi thọ, cải thiện chất lượng giống nòi",
+			"id": 146
+		},
+		{
+			"question": "Đề cương văn hóa Việt Nam do ai viết",
+			"answer": "Trường Chinh",
+			"id": 147
+		},
+		{
+			"question": "Điền từ còn thiếu vào chỗ trống: “về xây dựng và phát triển nền văn hóa ... tiên tiến đậm đà bản sắc dân tộc” được đề ra vào năm nào",
+			"answer": "Việt Nam",
+			"id": 148
+		},
+		{
+			"question": "Để bảo vệ và phát huy truyền thống văn hóa của dân tộc cần phải",
+			"answer": "Bảo vệ các di sản và giá trị văn hóa truyền thống",
+			"id": 149
+		},
+		{
+			"question": "Chức năng giáo dục của văn hóa thể hiện",
+			"answer": "Nhận thức, tư tưởng, tình cảm và hành động",
+			"id": 150
+		},
+		{
+			"question": "Quân đội nhân dân Việt Nam thành lập vào",
+			"answer": "Ngày 22 tháng 12 năm 1944",
+			"id": 151
+		},
+		{
+			"question": "Sức mạnh để bảo vệ tổ quốc là",
+			"answer": "Của khối đại đoàn kết dân tộc, cả hệ thống chính trị",
+			"id": 152
+		},
+		{
+			"question": "Chủ nghĩa đế quốc và các thế lực thù địch đang âm mưu chống phá Việt Nam bằng chiến lược nào",
+			"answer": "Diễn biến hòa bình và bạo loạn lật đổ",
+			"id": 153
+		},
+		{
+			"question": "Một trong những nhiệm vụ của quốc phòng an ninh hiện nay là",
+			"answer": "Làm thất bại mọi âm mưu chống phá của các thế lực thù địch",
+			"id": 154
+		},
+		{
+			"question": "Để động viên chiến đấu bảo vệ tổ quốc Hồ Chí Minh đã từng nói: “ Các vua Hùng đã có công dựng nước, Bác cháu ta phải……” điền từ còn thiếu vào câu nói trên",
+			"answer": "cùng nhau giữ lấy nước",
+			"id": 155
+		},
+		{
+			"question": "Trong thực hiện nhiệm vụ bảo vệ tổ quốc luôn phải",
+			"answer": "Nâng cao ý thức trách nhiệm và tinh thần cảnh giác",
+			"id": 156
+		},
+		{
+			"question": "Quan điểm cơ bản của Đảng về quốc phòng an ninh là",
+			"answer": "Xây dựng nền quốc phòng toàn dân và an ninh nhân dân vững mạnh toàn diện",
+			"id": 157
+		},
+		{
+			"question": "Nhiệm vụ bảo vệ tổ quốc hiện nay là",
+			"answer": "Bảo vệ Đảng nhà nước, nhân dân và chế độ xã hội chủ nghĩa, an ninh chính trị, kinh tế, tư tưởng",
+			"id": 158
+		},
+		{
+			"question": "Trong sự kết hợp phát triển kinh tế xã hội và an ninh quốc phòng cần phải là",
+			"answer": "Xây dựng thế trận quốc phòng toàn dân, an ninh nhân dân, xây dựng khu vực phòng thủ tỉnh thành phố",
+			"id": 159
+		},
+		{
+			"question": "Toàn cầu hóa nghĩa là",
+			"answer": "Sự hợp tác đa phương giữa các quốc gia",
+			"id": 160
+		},
+		{
+			"question": "Bảo vệ tổ quốc được xem là nhiệm vụ như thế nào đối với cách mạng Việt Nam",
+			"answer": "Chiến lược",
+			"id": 161
+		},
+		{
+			"question": "Cơ sở chính trị -xã hội vững chắc cho quốc phòng và an ninh thì cán bộ, đảng viên và nhân dân phải",
+			"answer": "Vững vàng về chính trị tư tưởng",
+			"id": 162
+		},
+		{
+			"question": "Quốc phòng là gì",
+			"answer": "Là công cuộc giữ nước của một quốc gia, gồm tổng thể các hoạt động đối nội và đối ngoại về quân sự, chính trị, kinh tế, văn hoá, khoa học của Nhà nước và nhân dân để phòng…nhằm giữ vững hoà bình, đẩy lùi, ngăn chặn các hoạt động gây chiến của kẻ thù và sẵn sàng đánh thắng chiến tranh xâm lược dưới mọi hình thức, mọi quy mô",
+			"id": 163
+		},
+		{
+			"question": "An ninh quốc gia là gì",
+			"answer": "Là sự ổn định trong quan hệ chính trị giữa các giai cấp, khẳng định vị trí lãnh đạo của giai cấp cầm quyền đối với các giai cấp khác và vị trí độc lập, tự chủ của chính quyền nhà nước đối với các Nhà nước khác trên thế giới",
+			"id": 164
+		},
+		{
+			"question": "Điền từ còn thiếu vào chỗ trống: “Tăng cường quốc phòng, giữ vững an ninh quốc gia, trật tự, an toàn xã hội là nhiệm vụ trọng yếu, thường xuyên của….”",
+			"answer": "Đảng, Nhà nước và toàn dân",
+			"id": 165
+		},
+		{
+			"question": "Việt Nam hiện nay có bao nhiêu tôn giáo chính",
+			"answer": "6",
+			"id": 166
+		},
+		{
+			"question": "Hoạt động tôn giáo hiện nay vẫn còn phức tạp với những biểu hiện nào",
+			"answer": "Tổ chức truyền đạo trái phép, hành nghề mê tín dị đoan, kích động, chống đối",
+			"id": 167
+		},
+		{
+			"question": "Quan điểm nào sau đây đúng theo chủ nghĩa duy vật biện chứng",
+			"answer": "Con người tạo ra tôn giáo",
+			"id": 168
+		},
+		{
+			"question": "Mặt trận tổ quốc và các đoàn thể nhân dân có vai trò như thế nào trong việc tập hợp vận động và đoàn kết rộng rãi và các tập thể nhân dân",
+			"answer": "Quan trọng",
+			"id": 169
+		},
+		{
+			"question": "Chủ tịch Hồ Chí Minh đã kêu gọi thực hiện chính sách nào về tôn giáo",
+			"answer": "“Tín ngưỡng tự do, lương giáo đoàn kết”",
+			"id": 170
+		},
+		{
+			"question": "Tôn giáo nào ở nước ta hiện nay có số lượng tín đồ đông nhất",
+			"answer": "Phật giáo",
+			"id": 171
+		},
+		{
+			"question": "Thực hiện đại đoàn kết dân tộc Đảng và nhà nước bảo đảm lợi ích chính đáng của",
+			"answer": "Mọi tầng lớp dân cư",
+			"id": 172
+		},
+		{
+			"question": "Theo quy định của pháp luật Việt Nam, việc truyền đạo và các hoạt động tôn giáo cần phải",
+			"answer": "Tuân thủ hiến pháp và pháp luật",
+			"id": 173
+		},
+		{
+			"question": "Các thế lực thù địch hiện nay lợi dụng vấn đề tôn giáo để làm gì",
+			"answer": "Phá hoại đoàn kết dân tộc, chống đối chế độ",
+			"id": 174
+		},
+		{
+			"question": "Theo Ph. Ăng nghen đã có một nhận xét làm cho chúng ta thấy rõ bản chất của tôn giáo như sau: “Tất cả mọi tôn giáo chẳng qua chỉ là …….. – vào trong đầu óc của con người – của những lực lượng bên ngoài chi phối cuộc sống của họ, chỉ là sự phản ánh trong đó những lực lượng trần thế đã mang hình thức những lực lượng siêu trần thế.”.Điền từ còn thiếu vào đoạn văn trên",
+			"answer": "Sự phản ánh hư ảo",
+			"id": 175
+		},
+		{
+			"question": "Việt Nam hiện nay có bao nhiêu dân tộc",
+			"answer": "54",
+			"id": 176
+		},
+		{
+			"question": "Dân tộc nào ở nước ta chiếm thành phần dân số đông đảo nhất",
+			"answer": "Kinh (Việt)",
+			"id": 177
+		},
+		{
+			"question": "Tôn giáo nào xuất hiện sớm nhất trong lịch sử nước ta",
+			"answer": "Đạo Phật",
+			"id": 178
+		},
+		{
+			"question": "Để nêu cao tinh thần đoàn kết, chủ tịch Hồ Chí Minh đã đề ra khẩu hiệu gì",
+			"answer": "“ Đoàn kết, đoàn kết, đại đoàn kết. Thành công thành công đại thành công”",
+			"id": 179
+		},
+		{
+			"question": "Chính sách tôn giáo của Đảng và nhà nước ta nhằm mục đích gì",
+			"answer": "Làm cho tôn giáo hoạt động bình thường",
+			"id": 180
+		},
+		{
+			"question": "Một trong những yếu tố thúc đẩy xây dựng Nhà nước pháp quyền “là đẩy mạnh phòng chống ….”. Điền từ còn thiếu vào chổ trống",
+			"answer": "Suy thoái đạo đức",
+			"id": 181
+		},
+		{
+			"question": "Điền từ thích hợp vào khoảng trống sau: Tham nhũng hiện nay là một trong bốn ............... của Việt Nam.",
+			"answer": "Bệnh",
+			"id": 182
+		},
+		{
+			"question": "Trong các cơ quan tư pháp, cơ quan nào biểu hiện quyền tập trung nhất",
+			"answer": "Tòa án nhân dân",
+			"id": 183
+		},
+		{
+			"question": "Phong trào đấu tranh của giai cấp công nhân Việt Nam chuyển từ đấu tranh tự phát lên đấu tranh tự giác đươc đánh dấu bởi",
+			"answer": "Phong trào đấu tranh công nhân Ba Son",
+			"id": 184
+		},
+		{
+			"question": "Giai cấp công nhân Việt Nam có sứ mệnh lịch sử to lớn là",
+			"answer": "Lãnh đạo cách mạng; đại diện phương thức sản xuất tiên tiến tiên phong trong sự nghiệp xây dựng chủ nghĩa xã hội; đi đầu trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+			"id": 185
+		},
+		{
+			"question": "Một trong những biện pháp để xây dựng Nhà nước pháp quyền trong hệ thống chính trị là",
+			"answer": "Hoàn thiện hệ thống pháp luật và cơ quan lập pháp",
+			"id": 186
+		},
+		{
+			"question": "Xây dựng Nhà nước pháp quyền ở nước ta hiện nay phải xuất phát từ căn cứ cơ bản nào",
+			"answer": "Nắm vững nguyên lý cơ bản của chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh cũng như cương lĩnh của Đảng về Nhà nước và pháp luật",
+			"id": 187
+		},
+		{
+			"question": "Một trong những tiêu chuẩn xây dựng đội ngũ cán bộ công chức trong sạch có năng lực là",
+			"answer": "Cần, kiệm, liêm, chính chí công vô tư, không tham nhũng và kiên quyết chống tham nhũng",
+			"id": 188
+		},
+		{
+			"question": "Quan điểm đối ngoại: “Thực hiện nhất quán đường lối đối ngoại độc lập, tự chủ, hòa bình, hợp tác và phát triển, đa phương hóa, đa dạng hóa và chủ động và tích cực hội nhập kinh tế quốc tế”, được đề ra tại đaị hội nào của Đảng",
+			"answer": "Đại hội đại biểu toàn quốc lần thứ X của Đảng",
+			"id": 189
+		},
+		{
+			"question": "Đảng ta xác định: “Tổ chức quyền lực của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là thống nhất, có sự phân công và phối hợp giữa các cơ quan nhà nước trong thực hiện các quyền…..”",
+			"answer": "Lập pháp, hành pháp, tư pháp",
+			"id": 190
+		},
+		{
+			"question": "Văn bản nào có hiệu lực cao nhất trong hệ thống pháp luật Việt Nam",
+			"answer": "Hiến pháp",
+			"id": 191
+		},
+		{
+			"question": "Một trong những đặc điểm của Nhà nước pháp quyền xã hội chủ nghĩa là gì",
+			"answer": "Nhà nước của dân, do dân và vì dân",
+			"id": 192
+		},
+		{
+			"question": "Nội dung sau đây nói về vấn đề gì: “Thực hiện nhất quán đường lối đối ngoại độc lập, tự chủ, hòa bình, hợp tác và phát triển, đa phương hóa, đa dạng hóa và chủ động và tích cực hội nhập kinh tế quốc tế”",
+			"answer": "Quan điểm đối ngoại",
+			"id": 193
+		},
+		{
+			"question": "Một trong những đặc điểm của Nhà nước pháp quyền xã hội chủ nghĩa là gì",
+			"answer": "Nhà nước của dân, do dân và vì dân",
+			"id": 194
+		},
+		{
+			"question": "Văn bản nào có hiệu lực cao nhất trong hệ thống pháp luật Việt Nam",
+			"answer": "Hiến pháp",
+			"id": 195
+		},
+		{
+			"question": "Tổ chức công đoàn Việt Nam ra đời được đánh dấu bằng sự kiện nào",
+			"answer": "Thành lập Công hội đỏ Bắc kỳ",
+			"id": 196
+		},
+		{
+			"question": "Sự phát triển giai cấp công nhân Việt Nam về số lượng đến trước chiến tranh thế giới thứ nhất đạt ...............",
+			"answer": "Khoảng 10 vạn người",
+			"id": 197
+		},
+		{
+			"question": "Sau khi chiếm được Việt Nam, thực dân Pháp đã tiến hành",
+			"answer": "Chương trình khai thác thuộc địa",
+			"id": 198
+		},
+		{
+			"question": "Thực dân Pháp đã thực hiện mấy lần khai thác thuộc địa",
+			"answer": "2",
+			"id": 199
+		},
+		{
+			"question": "Sự phát triển giai cấp công nhân Việt Nam về số lượng đến năm 1929 đạt",
+			"answer": "22 vạn người",
+			"id": 200
+		},
+		{
+			"question": "Mặt trận tổ quốc Việt Nam có vai trò như thế nào trong xây dựng nhà nước pháp quyền xã hội chủ nghĩa",
+			"answer": "Phản biện xã hội",
+			"id": 201
+		},
+		{
+			"question": "Điền từ còn thiếu vào khái niệm sau: “Giai cấp công nhân là một lực lượng xã hội to lớn, đang phát triển, bao gồm những người lao động chân tay và trí óc làm công hưởng lương trong các loại hình sản xuất kinh doanh và dịch vụ ………., hoặc sản xuất kinh doanh và dịch vụ có tính chất ………”",
+			"answer": "Công nghiệp",
+			"id": 202
+		},
+		{
+			"question": "Xây dựng giai cấp công nhân Việt Nam lớn mạnh trong thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước là nhiệm vụ",
+			"answer": "Quan trọng và cấp bách",
+			"id": 203
+		},
+		{
+			"question": "Thực trạng của giai cấp công nhân Việt Nam hiện nay là",
+			"answer": "Chưa đáp ứng được yêu cầu về số lượng, trình độ học vấn, chuyên môn, kỹ năng nghề nghiệp trong sự nghiệp CNH – HĐH đất nước",
+			"id": 204
+		},
+		{
+			"question": "Giai cấp công nhân là giai cấp tiên tiến nhất vì",
+			"answer": "Lực lượng sản xuất tiến bộ, có trình độ xã hội hóa cao",
+			"id": 205
+		},
+		{
+			"question": "Ngoài truyền thống tốt đẹp của dân tộc thì giai cấp công nhân Việt Nam còn có truyền thống tiêu biểu nào",
+			"answer": "Trung tâm đoàn kết toàn dân tộc; Giữ vai trò lãnh đạo cách mạng; Giữ vững truyền thống độc lập dân tộc gắn với chủ nghĩa xã hội",
+			"id": 206
+		},
+		{
+			"question": "Xây dựng và phát triển giai cấp công nhân Việt Nam lớn mạnh là trách nhiệm của",
+			"answer": "Cả hệ thống chính trị, toàn xã hội, người công nhân và của người sử dụng lao động",
+			"id": 207
+		},
+		{
+			"question": "Đặc điểm ra đời của giai cấp công nhân Việt Nam như thế nào",
+			"answer": "Phần lớn xuất thân từ nông dân",
+			"id": 208
+		},
+		{
+			"question": "Những nguy cơ, thách thức như: tụt hậu về kinh tế, chệch hướng về chủ nghĩa xã hội, nạn tham nhũng và quan liêu, “diễn biến hòa bình”… được Đảng ta nhận định trong Văn kiện của đại hội nào",
+			"answer": "Đại hội Đảng lần thứ IX",
+			"id": 209
+		},
+		{
+			"question": "Hiểu như thế nào về khái niệm giai cấp công nhân là gì",
+			"answer": "Là một lực lượng xã hội to lớn, đang phát triển, bao gồm những người lao động chân tay và trí óc, làm công hưởng lương trong các loại hình sản xuất kinh doanh và dịch vụ công nghiệp, hoặc sản xuất kinh doanh và dịch vụ có tính chất công nghiệp",
+			"id": 210
+        },
+		{
+			"question": "Trong các cơ quan sau, cơ quan nào không thuộc hệ thống cơ quan quản lý nhà nước",
+			"answer": "Thành Ủy Tp.HCM",
+			"id": 1
+		},
+		{
+			"question": "Có bao nhiêu nguyên tắc tổ chức và hoạt động của Bộ máy Nhà nước CHXHCNVN",
+			"answer": "5",
+			"id": 2
+		},
+		{
+			"question": "Trong bộ máy Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam thì Quốc hội là:",
+			"answer": "Cả A, B, C đều đúng",
+			"id": 3
+		},
+		{
+			"question": "Người đứng đầu cơ quan hành pháp trong bộ máy nhà nước của Việt Nam là:",
+			"answer": "Thủ tướng chính phủ",
+			"id": 4
+		},
+		{
+			"question": "Ở Việt Nam, văn bản luật do cơ quan nào dưới đây ban hành",
+			"answer": "Quốc hội",
+			"id": 5
+		},
+		{
+			"question": "Khi nghiên cứu về bộ máy Nhà nước Việt Nam thì khẳng định nào sau đây là đúng",
+			"answer": "Hội đồng nhân dân do nhân dân trực tiếp bầu ra",
+			"id": 6
+		},
+		{
+			"question": "Cấu thành của quy phạm pháp luật thông thường bao gồm:",
+			"answer": "Giả định, quy định, chế tài",
+			"id": 7
+		},
+		{
+			"question": "Chọn phương án điền vào chỗ trống: “…………. là văn bản quy phạm pháp luật do Quốc hội - Cơ quan quyền lực nhà nước cao nhất - ban hành”",
+			"answer": "Văn bản luật",
+			"id": 8
+		},
+		{
+			"question": "Văn bản quy phạm pháp luật có giá trị cao nhất ở Việt Nam là:",
+			"answer": "Hiến pháp",
+			"id": 9
+		},
+		{
+			"question": "Quan hệ nào sau đây là quan hệ pháp luật",
+			"answer": "Quan hệ giữa vợ với chồng về tài sản chung trong gia đình",
+			"id": 10
+		},
+		{
+			"question": "Trong Nhà nước CHXHCN Việt Nam, quyền lực Nhà nước thuộc về lực lượng nào dưới đây",
+			"answer": "Không đáp án nào đúng",
+			"id": 11
+		},
+		{
+			"question": "Nhà nước CHXHCN Việt Nam có những hệ thống cơ quan quyền lực nào",
+			"answer": "Cơ quan lập pháp, cơ quan hành pháp và cơ quan tư pháp",
+			"id": 12
+		},
+		{
+			"question": "Tổ chức và hoạt động của Bộ máy Nhà nước CHXHCN Việt Nam được thực hiện trên cơ sở những nguyên tắc nào",
+			"answer": "Đảm bảo quyền lực nhân dân trong tổ chức và hoạt động; Đảng lãnh đạo Nhà nước; tập trung dân chủ; pháp chế xã hội chủ nghĩa; bình đẳng và đoàn kết dân tộc",
+			"id": 13
+		},
+		{
+			"question": "Phần tử nhỏ nhất tạo nên hệ thống pháp luật Việt Nam là gì",
+			"answer": "Quy phạm pháp luật",
+			"id": 14
+		},
+		{
+			"question": "Hệ thống văn bản pháp luật của Việt Nam hiện nay bao gồm:",
+			"answer": "Hiến pháp và văn bản pháp luật",
+			"id": 15
+		},
+		{
+			"question": "Tính đến năm 2018, Việt Nam có mấy bản Hiến pháp",
+			"answer": "5",
+			"id": 16
+		},
+		{
+			"question": "Quy định nào sau đây không thuộc quy định trong chế độ chính trị theo Hiến pháp năm 2013",
+			"answer": "Mục đích phát triển kinh tế dân giàu, nước mạnh",
+			"id": 17
+		},
+		{
+			"question": "Đại hội Đảng toàn quốc lần thứ XI khẳng định nền kinh tế Việt Nam là nền kinh tế thị trường định hướng xã hội chủ nghĩa có bao nhiêu hình thức sở hữu",
+			"answer": "4",
+			"id": 18
+		},
+		{
+			"question": "Hiến pháp năm 2013 xác định mục đích phát triển kinh tế Việt Nam là:",
+			"answer": "Tất cả đều đúng",
+			"id": 19
+		},
+		{
+			"question": "Hiến pháp Việt Nam năm 2013 xác định phát triển khoa học và công nghệ là:",
+			"answer": "Quốc sách hàng đầu, giữ vai trò then chốt trong sự nghiệp phát triển kinh tế - xã hội của đất nước",
+			"id": 20
+		},
+		{
+			"question": "Mục đích phát triển kinh tế theo Hiến pháp là:",
+			"answer": "Dân giàu, nước mạnh, công bằng, dân chủ, văn minh",
+			"id": 21
+		},
+		{
+			"question": "Theo Hiến pháp năm 2013, mục đích của chính sách khoa học và công nghệ là:",
+			"answer": "Tất cả đều đúng",
+			"id": 22
+		},
+		{
+			"question": "Theo Hiến pháp năm 2013, bảo vệ Tổ quốc Việt Nam XHCN là:",
+			"answer": "Tất cả đều đúng",
+			"id": 23
+		},
+		{
+			"question": "Ở Việt Nam hiện nay, hệ thống tòa án được tổ chức gồm:",
+			"answer": "Tòa án nhân dân tối cao; Tòa án nhân dân cấp cao; Tòa án nhân dân cấp tỉnh; Tòa án nhân dân cấp huyện",
+			"id": 24
+		},
+		{
+			"question": "Theo Hiến pháp năm 2013, cơ quan nào dưới đây không thuộc các cơ quan tư pháp của nước CHXHCN Việt Nam",
+			"answer": "Trọng tài thương mại",
+			"id": 25
+		},
+		{
+			"question": "Luật nhà nước (Luật Hiến pháp) có vai trò gì trong hệ thống pháp luật Việt Nam",
+			"answer": "Là đạo luật cơ bản, quan trọng nhất, có hiệu lực pháp lý cao nhất trong hệ thống pháp luật Việt Nam",
+			"id": 26
+		},
+		{
+			"question": "Hiến pháp năm 2013 bao gồm bao nhiêu chương, bao nhiêu điều",
+			"answer": "11 chương, 120 điều",
+			"id": 27
+		},
+		{
+			"question": "Hiến pháp năm 2013 quy định những nội dung cơ bản nào",
+			"answer": "Chế độ chính trị và chế độ kinh tế; chính sách xã hội, văn hóa, giáo dục, khoa học công nghệ, môi trường; quyền con người, quyền và nghĩa vụ cơ bản của công dân",
+			"id": 28
+		},
+		{
+			"question": "Theo Hiến pháp năm 2013 của Việt Nam, chính sách xã hội không nhằm mục đích nào dưới đây",
+			"answer": "Đảm bảo nguyên tắc bình đẳng trong việc tiếp cận các nguồn lực của xã hội",
+			"id": 29
+		},
+		{
+			"question": "Theo Hiến pháp năm 2013, công dân không có quyền nào dưới đây:",
+			"answer": "Phải trung thành với Tổ quốc",
+			"id": 30
+		},
+		{
+			"question": "Quan hệ nhân thân và quan hệ tài sản là đối tượng điều chỉnh của ngành luật nào sau đây",
+			"answer": "Luật Dân sự",
+			"id": 31
+		},
+		{
+			"question": "Quan hệ nhân thân thuộc đối tượng điều chỉnh của Luật dân sự bao gồm:",
+			"answer": "Quan hệ nhân thân gắn với tài sản và quan hệ nhân thân không gắn với tài sản",
+			"id": 32
+		},
+		{
+			"question": "Theo quy định của Luật dân sự, quyền sở hữu tài sản bao gồm:",
+			"answer": "Quyền chiếm hữu, quyền sử dụng và quyền định đoạt",
+			"id": 33
+		},
+		{
+			"question": "Theo quy định của Luật dân sự, căn cứ nào sau đây không được coi là căn cứ xác lập quyền sở hữu tài sản hợp pháp",
+			"answer": "Do trộm cắp, chiếm đoạt bất hợp pháp không ngay tình của người khác",
+			"id": 34
+		},
+		{
+			"question": "Quan hệ nhân thân khác với quan hệ tài sản thuộc phạm vi điều chỉnh của pháp luật dân sự Việt Nam là:",
+			"answer": "Quan hệ nhân thân không thể chuyển dịch được cho người khác",
+			"id": 35
+		},
+		{
+			"question": "Theo Bộ luật Dân sự năm 2015, quyền nhân thân của cá nhân không bao gồm",
+			"answer": "Quyền sở hữu tài sản hợp pháp",
+			"id": 36
+		},
+		{
+			"question": "Theo pháp luật dân sự Việt Nam, quan hệ nhân thân không gắn với tài sản không bao gồm",
+			"answer": "Quyền tác giả đối với tác phẩm văn học",
+			"id": 37
+		},
+		{
+			"question": "Phương pháp nào dưới đây không phải là phương pháp điều chỉnh của pháp luật dân sự Việt Nam",
+			"answer": "Mệnh lệnh – quyền uy",
+			"id": 38
+		},
+		{
+			"question": "Theo Bộ luật dân sự năm 2015, nguyên tắc nào dưới đây không phải là nguyên tắc của pháp luật dân sự Việt Nam",
+			"answer": "Nguyên tắc giao dịch có lợi",
+			"id": 39
+		},
+		{
+			"question": "Pháp luật dân sự Việt Nam hiện nay có bao nhiêu nguyên tắc",
+			"answer": "5",
+			"id": 40
+		},
+		{
+			"question": "Theo quy định của Bộ luật Dân sự năm 2015, cá nhân có năng lực hành vi dân sự đầy đủ khi:",
+			"answer": "Từ đủ 18 tuổi trở lên",
+			"id": 41
+		},
+		{
+			"question": "Theo quy định của Bộ luật Dân sự năm 2015, hợp đồng dân sự bắt buộc phải được lập dưới hình thức:",
+			"answer": "Không đáp án nào đúng",
+			"id": 42
+		},
+		{
+			"question": "Nguyên tắc nào dưới đây không phải là nguyên tắc của việc giao kết hợp đồng theo Bộ luật Dân sự năm 2015",
+			"answer": "Đảm bảo sự bình đẳng về mặt kinh tế giữa các chủ thể",
+			"id": 43
+		},
+		{
+			"question": "Theo Bộ luật Dân sự năm 2015, đối tượng của quyền sở hữu không bao gồm:",
+			"answer": "Quyền hình ảnh",
+			"id": 44
+		},
+		{
+			"question": "Theo pháp luật dân sự Việt Nam, chủ thể của quyền sở hữu là:",
+			"answer": "Người đang sở hữu tài sản",
+			"id": 45
+		},
+		{
+			"question": "Đối tượng điều chỉnh của luật lao động là:",
+			"answer": "Quan hệ lao động, quan hệ phát sinh trong quan hệ lao động",
+			"id": 46
+		},
+		{
+			"question": "Phương pháp điều chỉnh của Luật lao động:",
+			"answer": "Mệnh lệnh, thỏa thuận và thông qua tổ chức công đoàn",
+			"id": 47
+		},
+		{
+			"question": "Luật Lao động điều chỉnh mối quan hệ giữa",
+			"answer": "Cả A, B, C đều đúng",
+			"id": 48
+		},
+		{
+			"question": "Quyền nào sau đây không phải là quyền của người lao động",
+			"answer": "Quyền được xử lý vi phạm kỷ luật LĐ",
+			"id": 49
+		},
+		{
+			"question": "Theo Bộ luật Lao động, hợp đồng lao động (HĐLĐ) bao gồm các loại:",
+			"answer": "HĐLĐ không xác định thời hạn; HĐLĐ xác định thời hạn; HĐLĐ theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 12 tháng",
+			"id": 50
+		},
+		{
+			"question": "Bộ luật Lao động quy định, người lao động là người có khả năng lao động, có khả năng giao kết hợp đồng lao động và có độ tuổi:",
+			"answer": "Ít nhất đủ 15 tuổi",
+			"id": 51
+		},
+		{
+			"question": "Theo quy định của Bộ luật Lao động, người sử dụng lao động là cá nhân phải là người:",
+			"answer": "Đủ 18 tuổi.",
+			"id": 52
+		},
+		{
+			"question": "Theo Bộ luật Lao động, người lao động và người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động và báo trước với thời hạn quy định là:",
+			"answer": "45 ngày đối với Hợp đồng không thời hạn, 30 ngày với hợp đồng có thời hạn.",
+			"id": 53
+		},
+		{
+			"question": "Theo quy định của Bộ luật Lao động, tiền lương làm thêm của người lao động vào ngày nghỉ hàng tuần theo giờ tiêu chuẩn là:",
+			"answer": "200%",
+			"id": 54
+		},
+		{
+			"question": "Theo Bộ luật Lao động, người lao động nghỉ việc mà vẫn hưởng nguyên lương trong trường hợp nào dưới đây",
+			"answer": "Cả A, B, C đều đúng",
+			"id": 55
+		},
+		{
+			"question": "Theo quy định của Bộ luật Lao động năm 2012, nhận định nào dưới đây là không đúng khi nói về kỷ luật lao động",
+			"answer": "Nội quy lao động có thể trái với pháp luật lao động ",
+			"id": 56
+		},
+		{
+			"question": "Khi người lao động vi phạm kỷ luật lao động, theo quy định của Bộ luật Lao động năm 2012, người sử dụng lao động không có quyền áp dụng hình thức xử lý nào dưới đây",
+			"answer": "Cảnh cáo",
+			"id": 57
+		},
+		{
+			"question": "Theo quy định của Bộ luật Lao động năm 2012, đối với tranh chấp lao động cá nhân, phương thức giải quyết tranh chấp nào dưới đây không được áp dụng",
+			"answer": "Trọng tài",
+			"id": 58
+		},
+		{
+			"question": "Theo quy định của Bộ luật Lao động năm 2012, thời hiệu khởi kiện đối với tranh chấp về bồi thường thiệt hại cho người sử dụng lao động trong tranh chấp lao động cá nhân là bao nhiêu năm kể từ ngày mỗi bên tranh chấp cho rằng quyền và lợi ích của mình bị vi phạm",
+			"answer": "1 năm",
+			"id": 59
+		},
+		{
+			"question": "Theo quy định của Bộ luật Lao động năm 2012, đình công sẽ bị coi là bất hợp pháp khi:",
+			"answer": "Tất cả các đáp án trên đều đúng",
+			"id": 60
+		},
+		{
+			"question": "Phương pháp điều chỉnh của Luật hành chính",
+			"answer": "Mệnh lệnh, phục tùng",
+			"id": 61
+		},
+		{
+			"question": "Cơ quan nào sau đây không thuộc cơ quan hành chính nhà nước",
+			"answer": "Hội đồng nhân dân",
+			"id": 62
+		},
+		{
+			"question": "Cơ sở để truy cứu trách nhiệm hành chính là:",
+			"answer": "Vi phạm hành chính",
+			"id": 63
+		},
+		{
+			"question": "Dấu hiệu vi phạm hành chính bao gồm:",
+			"answer": "Tất cả đều đúng",
+			"id": 64
+		},
+		{
+			"question": "Các hình thức xử phạt hành chính bao gồm:",
+			"answer": "Cảnh cáo, phạt tiền, tước giấy phép, tịch thu tang vật",
+			"id": 65
+		},
+		{
+			"question": "Nhận định nào dưới đây là đúng khi nói về luật hành chính",
+			"answer": "Luật hành chính là ngành luật về quản lý Nhà nước",
+			"id": 66
+		},
+		{
+			"question": "Quan hệ xã hội nào dưới đây không do luật hành chính điều chỉnh",
+			"answer": "Quan hệ giữa Quốc hội với Chính phủ",
+			"id": 67
+		},
+		{
+			"question": "Quan hệ pháp luật hành chính nội bộ là:",
+			"answer": "Quan hệ pháp luật điều chỉnh mối quan hệ giữa các chủ thể có mối quan hệ lệ thuộc về mặt tổ chức",
+			"id": 68
+		},
+		{
+			"question": "Trong pháp luật hành chính, quan hệ pháp luật về nội dung là:",
+			"answer": "Quan hệ để thực hiện quyền và nghĩa vụ của các chủ thể trong mối quan hệ đó",
+			"id": 69
+		},
+		{
+			"question": "Nhận định nào dưới đây là đúng khi nói về phương pháp điều chỉnh “mệnh lệnh – đơn phương” của Luật hành chính",
+			"answer": "Chủ thể quản lý có thể áp dụng biện pháp cưỡng chế để buộc đối tượng quản lý phải thực hiện mệnh lệnh của mình",
+			"id": 70
+		},
+		{
+			"question": "Trong phương pháp điều chỉnh “mệnh lệnh – đơn phương”, các quyết định hành chính có đặc điểm:",
+			"answer": "Đơn phương và bắt buộc",
+			"id": 71
+		},
+		{
+			"question": "Nhận định nào dưới đây là đúng khi nói về vi phạm hành chính",
+			"answer": "Hành vi có lỗi do cá nhân, tổ chức thực hiện",
+			"id": 72
+		},
+		{
+			"question": "Trong một số trường hợp, để xác định có hành vi vi phạm hành chính hay không, cần phải kết hợp với yếu tố nào dưới đây",
+			"answer": "Thời gian thực hiện hành vi",
+			"id": 73
+		},
+		{
+			"question": "Các căn cứ được sử dụng để phân biệt giữa vi phạm hành chính với tội phạm không bao gồm:",
+			"answer": "Phạm vi tác động của vi phạm",
+			"id": 74
+		},
+		{
+			"question": "Một số yếu tố có thể kết hợp khi xác định hành vi vi phạm pháp luật hành chính không bao gồm:\"",
+			"answer": "Cách thức thực hiện hành vi",
+			"id": 75
+		},
+		{
+			"question": "Theo quy định của pháp luật hình sự, khung hình phạt cao nhất cho tội phạm rất nghiêm trọng là:",
+			"answer": "Đến 15 năm tù",
+			"id": 76
+		},
+		{
+			"question": "Theo quy định của pháp luật tố tụng hình sự, thời gian chờ để mở phiên tòa xét xử sơ thẩm án hình sự cho tội phạm đặc biệt nghiêm trọng là:",
+			"answer": "4 tháng",
+			"id": 77
+		},
+		{
+			"question": "Trình tự xét xử tại một phiên tòa hình sự bao gồm:",
+			"answer": "Khai mạc, xét hỏi, tranh luận, nghị án, tuyên án",
+			"id": 78
+		},
+		{
+			"question": "Ai là người trong hội đồng xét xử được tham gia nghị án trong phiên tòa hình sự sơ thẩm",
+			"answer": "Thẩm phán và Hội thẩm nhân dân",
+			"id": 79
+		},
+		{
+			"question": "Giám đốc thẩm là xét xử lại vụ án đã có hiệu lực pháp luật khi:",
+			"answer": "Phát hiện sai phạm trong quy trình tố tụng",
+			"id": 80
+		},
+		{
+			"question": "Nhận định nào dưới đây về nguyên tắc xử phạt hành chính là sai",
+			"answer": "Đối tượng bị xử phạt hành chính chỉ có thể là cá nhân",
+			"id": 81
+		},
+		{
+			"question": "Các hình thức xử phạt vi phạm hành chính bao gồm:",
+			"answer": "Cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính, buộc tháo dỡ khôi phục tình trạng ban đầu.",
+			"id": 82
+		},
+		{
+			"question": "Tội phạm không có dấu hiệu nào dưới đây",
+			"answer": "Không có đáp án nào đúng",
+			"id": 83
+		},
+		{
+			"question": "Nhận định nào dưới đây là đúng khi nói về loại tội phạm rất nghiêm trọng",
+			"answer": "Tội phạm rất nghiêm trọng có mức hình phạt cao nhất của khung hình phạt là từ 07 năm đến 15 năm tù",
+			"id": 84
+		},
+		{
+			"question": "Dấu hiệu nào sau đây không phải là dấu hiệu cơ bản của tội phạm",
+			"answer": "Tính vi phạm pháp luật",
+			"id": 85
+		},
+		{
+			"question": "Theo pháp luật hình sự, loại tội phạm nào dưới đây có mức cao nhất của khung hình phạt là đến 3 năm tù",
+			"answer": "Tội phạm ít nghiêm trọng",
+			"id": 86
+		},
+		{
+			"question": "Đối với người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi, phải chịu trách nhiệm hình sự về:",
+			"answer": "Tội phạm rất nghiêm trọng do cố ý",
+			"id": 87
+		},
+		{
+			"question": "Nhận định nào dưới đây là không đúng khi nói về hình phạt bổ sung, theo pháp luật hình sự Việt Nam",
+			"answer": "Là hình phạt có thể tuyên độc lập với hình phạt chính",
+			"id": 88
+		},
+		{
+			"question": "Truy tố là một giai đoạn của quá trình tố tụng hình sự được thực hiện sau khi:",
+			"answer": "Cơ quan điều tra chuyển toàn bộ hồ sơ vụ án, kết luận điều tra và đề nghị truy tố bị can cho viện kiểm sát",
+			"id": 89
+		},
+		{
+			"question": "Theo pháp luật hình sự Việt Nam, một người bị coi là có tội khi:",
+			"answer": "Bị tòa tuyên là có tội",
+			"id": 90
+		},
+		{
+			"question": "Tham nhũng là hành vi của người có chức vụ, quyền hạn nhằm mục đích gì",
+			"answer": "Vụ lợi",
+			"id": 91
+		},
+		{
+			"question": "Chủ thể của tham nhũng là:",
+			"answer": "Người có chức vụ, quyền hạn",
+			"id": 92
+		},
+		{
+			"question": "Theo quy định của pháp luật về phòng, chống tham nhũng thì hành vi nào dưới đây là những hành vi nhũng nhiễu vì vụ lợi",
+			"answer": "Cửa quyền, hách dịch, gây khó khăn, phiền hà khi thực hiện nhiệm vụ, công vụ nhằm đòi hỏi, ép buộc cơ quan, tổ chức, cá nhân khác phải nộp những khoản chi phí ngoài quy định;",
+			"id": 93
+		},
+		{
+			"question": "Hành vi nào sau đây là hành vi tham ô tài sản:",
+			"answer": "Lợi dụng chức vụ, quyền hạn chiếm đoạt tài sản mà mình có trách nhiệm quản lý.",
+			"id": 94
+		},
+		{
+			"question": "Hành vi nào sau đây không thuộc nhóm hành vi tham nhũng theo quy định của pháp luật hiện hành:",
+			"answer": "Giảm bớt hao phí trong sử dụng tiền, tài sản, lao động, thời gian lao động và tài nguyên thiên nhiên nhưng vẫn đạt được mục tiêu đã định",
+			"id": 95
+		},
+		{
+			"question": "Nguyên nhân tham nhũng nào sau đây không thuộc nhóm nguyên nhân chủ quan:",
+			"answer": "Chính sách pháp luật chưa đầy đủ, thiếu đồng bộ, thiếu nhất quán",
+			"id": 96
+		},
+		{
+			"question": "Nguyên nhân tham nhũng nào sau đây không thuộc nhóm nguyên nhân khách quan:",
+			"answer": "Quá trình chuyển đổi cơ chế, tồn tại và đan xen giữa cái mới và cái cũ",
+			"id": 97
+		},
+		{
+			"question": "Hành vi nào dưới đây không thuộc hành vi giả mạo trong công tác",
+			"answer": "Không có đáp án nào đúng",
+			"id": 98
+		},
+		{
+			"question": "Tham nhũng có những tác hại nào dưới đây",
+			"answer": "Tác hại về chính trị, tác hại về kinh tế, tác hại về xã hội",
+			"id": 99
+		},
+		{
+			"question": "Công dân không có trách nhiệm nào dưới đây trong phòng chống tham nhũng",
+			"answer": "Không đáp án nào đúng",
+			"id": 100
+		},
+		{
+			"question": "Tham nhũng là hành vi của:",
+			"answer": "Người có chức vụ, quyền hạn",
+			"id": 101
+		},
+		{
+			"question": "Tham nhũng không có đặc điểm nào dưới đây",
+			"answer": "Chủ thể tham nhũng là người giàu có",
+			"id": 102
+		},
+		{
+			"question": "Lợi ích mà người tham nhũng đạt được bao gồm:",
+			"answer": "Lợi ích vật chất và lợi ích phi vật chất",
+			"id": 103
+		},
+		{
+			"question": "Người nào dưới đây không thể là chủ thể tham nhũng",
+			"answer": "Người lao động trong doanh nghiệp",
+			"id": 104
+		},
+		{
+			"question": "Bà A tốt nghiệp đại học năm 2005 sau đó làm nhân viên cho một doanh nghiệp đến năm 2013. Đến năm 2015, bà A được tuyển dụng vào làm việc tại một cơ quan nhà nước. Năm 2019, bà A được bổ nhiệm làm trưởng phòng. Theo pháp luật về phòng chống tham nhũng của Việt Nam, bà A chỉ có thể là chủ thể tham nhũng kể từ:",
+			"answer": "2019",
+			"id": 105
+		},
+		{
+			"question": "Người tiêu dùng là:",
+			"answer": "Người mua, sử dụng hàng hóa dịch vụ cho mục đích tiêu dùng, sinh hoạt của cá nhân, gia đình, tổ chức.",
+			"id": 106
+		},
+		{
+			"question": "Người nào dưới đây là người tiêu dùng",
+			"answer": "Công ty M mua nước uống cho nhân viên của mình",
+			"id": 107
+		},
+		{
+			"question": "Nhận định nào sau đây đúng khi nói về khái niệm người tiêu dùng",
+			"answer": "Người tiêu dùng có thể là cá nhân và tổ chức",
+			"id": 108
+		},
+		{
+			"question": "Người nào dưới đây không phải là người tiêu dùng",
+			"answer": "Bà M mua sữa về để làm sữa chua bán",
+			"id": 109
+		},
+		{
+			"question": "Một doanh nghiệp sản xuất hàng hóa cũng có thể là người tiêu dùng nếu:",
+			"answer": "Doanh nghiệp đó mua giấy về để nhân viên sử dụng",
+			"id": 110
+		},
+		{
+			"question": "Theo Luật Bảo vệ quyền lợi người tiêu dùng năm 2010, người tiêu dùng không có quyền nào dưới đây",
+			"answer": "Yêu cầu người bán cung cấp hàng hóa cho mình bất kỳ khi nào",
+			"id": 111
+		},
+		{
+			"question": "Anh A sau khi đi ăn bát phở ở cửa hàng thì bị đau bụng. Kết quả kiểm tra xác định anh A bị ngộ độc từ bát phở đó. Anh A yêu cầu cửa hàng bán phở bồi thường cho mình 1 triệu đồng chi phí điều trị. Theo Luật Bảo vệ quyền lợi người tiêu dùng năm 2010, việc anh A đòi 1 triệu đồng là anh A đang thực hiện quyền:",
+			"answer": "Yêu cầu bồi thường thiệt hại",
+			"id": 112
+		},
+		{
+			"question": "Ông M tham gia một hội thảo của Hiệp hội bảo vệ quyền lợi người tiêu dùng về thực tiễn áp dụng pháp luật bảo vệ quyền lợi người tiêu dùng. Tại hội thảo, ông M trình bày một số điểm để hoàn thiện pháp luật Việt Nam về bảo vệ quyền lợi người tiêu dùng. Theo Luật Bảo vệ quyền lợi người tiêu dùng, ông M đang thực hiện quyền:",
+			"answer": "Tham gia xây dựng và thực thi pháp luật về bảo vệ quyền lợi người tiêu dùng",
+			"id": 113
+		},
+		{
+			"question": "Bà K, sau khi sử dụng mỹ phẩm bị nổi mụn, đã nhờ Hội Bảo vệ quyền lợi người tiêu dùng tỉnh K đứng ra bảo vệ quyền lợi cho mình đối với hãng mỹ phẩm đã bán mỹ phẩm cho bà. Theo Luật Bảo vệ quyền lợi người tiêu dùng năm 2010, bà K đang thực hiện quyền:",
+			"answer": "Đề nghị tổ chức xã hội bảo vệ quyền lợi cho mình",
+			"id": 114
+		},
+		{
+			"question": "Theo Luật Bảo vệ quyền lợi người tiêu dùng năm 2010, người tiêu dùng có bao nhiêu quyền cơ bản",
+			"answer": "7",
+			"id": 115
+		},
+		{
+			"question": "Theo Luật Bảo vệ quyền lợi người tiêu dùng năm 2010, người tiêu dùng không có nghĩa vụ nào dưới đây",
+			"answer": "Trả lại hàng khi hàng không đáp ứng tiêu chuẩn",
+			"id": 116
+		},
+		{
+			"question": "Anh A mua một chiếc máy xay sinh tố từ một trang web thương mại điện tử. Khi người giao hàng giao hàng đến nhà, anh A đã mở niêm phong và kiểm tra hàng, sau đó thanh toán tiền hàng cho người giao hàng. Theo Luật Bảo vệ quyền lợi người tiêu dùng năm 2010, anh A đang thực hiện nghĩa vụ:",
+			"answer": "Kiểm tra hàng hóa trước khi nhận hàng",
+			"id": 117
+		},
+		{
+			"question": "Bà H sau khi uống xong chai nước đã để chai nhựa đựng nước vào thùng rác tái chế. Theo Luật Bảo vệ quyền lợi người tiêu dùng năm 2010, bà H đang thực hiện nghĩa vụ:",
+			"answer": "Không làm tổn hại đến môi trường",
+			"id": 118
+		},
+		{
+			"question": "Ông P, sau khi phát hiện một cửa hàng bán giò lụa có sử dụng hàn the khi chế biến giò, đã báo cho cơ quan quản lý thị trường đến kiểm tra cửa hàng. Theo Luật Bảo vệ quyền lợi người tiêu dùng năm 2010, ông P đang thực hiện nghĩa vụ:",
+			"answer": "Thông tin cho cơ quan nhà nước có thẩm quyền khi phát hiện hàng hóa không đảm bảo an toàn cho người tiêu dùng",
+			"id": 119
+		},
+		{
+			"question": "Theo Luật Bảo vệ quyền lợi người tiêu dùng, tổ chức kinh doanh hàng hóa dịch vụ không bao gồm: nghĩa vụ:",
+			"answer": "Hội sinh viên trường N bán hàng gây quỹ từ thiện",
+			"id": 120
+		}
+]
+
